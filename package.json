@@ -1,0 +1,13 @@
+{
+  "name": "fs.ds",
+  "version": "1.0.0",
+  "description": "Just a file system data structure",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["file", "fs", "filesystem", "data-structure"],
+  "author": "Tyrell Wellick",
+  "license": "ISC",
+  "type": "module"
+}
