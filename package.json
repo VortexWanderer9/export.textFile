@@ -6,8 +6,16 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["file", "fs", "filesystem", "data-structure"],
+  "keywords": [
+    "file",
+    "fs",
+    "filesystem",
+    "data-structure"
+  ],
   "author": "Tyrell Wellick",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "url": "^0.11.4"
+  }
 }
